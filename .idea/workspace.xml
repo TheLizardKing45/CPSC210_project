@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27ff6e9c-1879-4120-b72e-9a3e77695782" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CPSC210_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project-Starter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UML_Design_Diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/gunshot.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/music.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/scoreboard.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/testReadEmptyScoreboard.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/testReadNonEmptyScoreboard.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/testWriterEmptyScoreboard.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/testWriterNoExceptionThrown.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tobs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/json-20200518.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-api-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-engine-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-params-5.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-engine-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/model/Bullet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/model/Entity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/model/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/model/Gun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/model/LivingEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/model/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/model/Record.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/model/Scoreboard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/model/Zombie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/persistence/JsonReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/persistence/JsonWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/persistence/Writeable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/ui/GameOverDialog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/ui/GamePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/ui/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/ui/Main$KeyHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/ui/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/ui/SoundPlayer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/ui/scoreboard/ScorePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/ui/scoreboard/ScoreboardModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/ui/scoreboard/ScoreboardUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Project-Starter/ui/scoreboard/ScoreboardWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project-Starter/model/BulletTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project-Starter/model/GameTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project-Starter/model/GunTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project-Starter/model/PlayerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project-Starter/model/RecordTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project-Starter/model/ScoreboardTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project-Starter/model/ZombieTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project-Starter/persistence/JsonReaderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project-Starter/persistence/JsonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/Project-Starter/persistence/JsonWriterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/model/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/model/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/model/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/model/Gun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/model/LivingEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/model/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/model/Record.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/model/Scoreboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/model/Zombie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/persistence/JsonReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/persistence/JsonWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/persistence/Writeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/ConsoleGameArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/GameOverDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/GamePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/SoundPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/scoreboard/ScorePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/scoreboard/ScoreboardModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/scoreboard/ScoreboardUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ui/scoreboard/ScoreboardWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/model/BulletTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/model/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/model/GunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/model/PlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/model/RecordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/model/ScoreboardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/model/ZombieTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/persistence/JsonReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/persistence/JsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/persistence/JsonWriterTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kt6nlsr9AnQcqvhcJZithVuiZB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/json-20200518.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Main" />
+      <module name="CPSC210_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27ff6e9c-1879-4120-b72e-9a3e77695782" name="Default Changelist" comment="" />
+      <created>1606507709263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606507709263</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1606508091664">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1606508091664" />
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1606507807055">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1606507807055" />
+    <state x="348" y="86" key="FileChooserDialogImpl" timestamp="1606508081565">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="348" y="86" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1606508081565" />
+  </component>
+</project>

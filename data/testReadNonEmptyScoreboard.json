@@ -1,0 +1,23 @@
+{
+  "scoreboard": [
+    {
+      "name": "Brett",
+      "totalKills": 80,
+      "totalPoints": 800,
+      "totalRounds": 40
+    },
+    {
+      "name": "Raoul",
+      "totalKills": 14,
+      "totalPoints": 140,
+      "totalRounds": 10
+    },
+
+    {
+      "name": "AAA",
+      "totalKills": 1,
+      "totalPoints": 1,
+      "totalRounds": 1
+    }
+  ]
+}
